@@ -1,6 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on German langauge learning.
+- 🌱 I’m currently learning ISTQB Certification.
+- 👯 I’m looking job in Automotive system Integration Test and project managment activity in High voltage Battery Managment system (Lithium Ion), ADAS project.
 
-<!--
+
 **HitendraKuratkar/HitendraKuratkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
